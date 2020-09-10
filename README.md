@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shemona</h1>
-<h3 align="center">A frontend developer based (anywhere)</h3>
+<h3 align="center">A frontend developer based anywhere</h3>
 
 - 🔭 I’m currently working on [Animate](https://github.com/singhshemona/animate)
 
