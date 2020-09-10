@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shemona</h1>
 <h3 align="center">A frontend developer based (anywhere)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhshemona" alt="singhshemona" /> </p>
-
 - 🔭 I’m currently working on [Animate](https://github.com/singhshemona/animate)
 
 - 👨‍💻 All of my projects are available at [http://shemonasingh.com/](http://shemonasingh.com/)
