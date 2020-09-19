@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Animate](https://github.com/singhshemona/animate)
 
-- 👨‍💻 All of my projects are available at [http://shemonasingh.com/](http://shemonasingh.com/)
+- 👨‍💻 My website is [http://shemonasingh.com/](http://shemonasingh.com/)
 
 - 📝 I regulary write articles on [https://dev.to/singhshemona](https://dev.to/singhshemona)
 
