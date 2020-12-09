@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋  I'm Shemona</h1>
+<h1 align="center">Hello! 👋  I'm Shemona</h1>
 <h3 align="center">A developer and designer based out of (anywhere, in this WFH world 🙃)</h3>
 
 - 🔭 I’m currently working on [building a more engaging way to consume Podcasts](https://github.com/singhshemona/podcast)
