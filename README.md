@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [building a more engaging way to consume Podcasts](https://github.com/singhshemona/podcast)
 
-- 👨‍💻 My website is [http://shemonasingh.com/](http://shemonasingh.com/)
+- 👨‍💻 My website is [https://shemonasingh.com/](https://shemonasingh.com/)
 
 - 📝 I regulary write articles on [https://dev.to/singhshemona](https://dev.to/singhshemona)
 
