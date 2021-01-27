@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋  I'm Shemona</h1>
 <h3 align="center">A developer and designer based out of (anywhere, in this WFH world 🙃)</h3>
 
-- 🔭 I’m currently working on [building a more engaging way to consume Podcasts](https://github.com/singhshemona/podcast)
+- 🔭 I’m currently working on [building a way to identify gaps in knowledge](https://github.com/singhshemona/recommend)
 
 - 👨‍💻 My website is [https://shemonasingh.com/](https://shemonasingh.com/)
 
