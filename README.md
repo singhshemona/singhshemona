@@ -1,13 +1,13 @@
 <h1 align="center">Hello! 👋  I'm Shemona</h1>
-<h3 align="center">A developer and designer based out of (anywhere, in this WFH world 🙃)</h3>
+<h3 align="center">A developer and designer based in Hamburg, Germany.</h3>
 
-- 🔭 I’m currently working on [building a way to identify gaps in knowledge](https://github.com/singhshemona/recommend)
+- 🔭 I’m currently working on [building a way to identify gaps in knowledge](https://github.com/singhshemona/recommend).
 
-- 👨‍💻 My website is [shemonasingh.com](https://shemonasingh.com/)
+- 👨‍💻 My website is [shemonasingh.com](https://shemonasingh.com/).
 
-- 📝 I regulary write articles on [https://dev.to/singhshemona](https://dev.to/singhshemona)
+- 📝 I regulary write articles on [https://dev.to/singhshemona](https://dev.to/singhshemona).
 
-- 📫 The best way to reach me **singhshemona@gmail.com**
+- 📫 The best way to reach me is email: **singhshemona@gmail.com**.
 
 ### Blogs posts
 **📕 Latest dev.to posts [@singhshemona](https://dev.to/singhshemona)**
