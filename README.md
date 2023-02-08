@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋  I'm Shemona</h1>
-<h3 align="center">A developer and designer based in Hamburg, Germany.</h3>
+<h3 align="center">A developer and designer based in Amsterdam.</h3>
 
 - 🔭 I’m currently working on [building a way to identify gaps in knowledge](https://github.com/singhshemona/recommend).
 
