@@ -17,9 +17,11 @@
 - [Mysteries of the Cookie Explained](https://dev.to/singhshemona/cookies-2967)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- TODO: THIS IS NOT WORKING
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhshemona&layout=compact&hide=html" alt="singhshemona" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhshemona&show_icons=true" alt="singhshemona" /></p>
+-->
 
 <p>
 <a href="https://codepen.io/shemona singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shemona singh" height="30" width="30" /></a>
