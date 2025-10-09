@@ -1,16 +1,11 @@
 <h1 align="center">Hello! 👋  I'm Shemona</h1>
-<h3 align="center">A developer and designer based in Amsterdam.</h3>
-
-- 🔭 I’m currently working on [a better way to learn](https://github.com/singhshemona/network).
+<h3 align="center">A developer and designer studying at CMU.</h3>
 
 - 👨‍💻 My website is [shemonasingh.com](https://shemonasingh.com/).
-
-- 📝 I regulary write articles on [https://dev.to/singhshemona](https://dev.to/singhshemona).
 
 - 📫 The best way to reach me is email: **singhshemona@gmail.com**.
 
 ### Blogs posts
-**📕 Latest dev.to posts [@singhshemona](https://dev.to/singhshemona)**
 <!-- BLOG-POST-LIST:START -->
 - [Learning Node and Express (5 part Series)](https://dev.to/singhshemona/learning-nodejs-part-1-understanding-the-essentials-4h4o)
 - [How to Fix "Only the Readme Is Appearing" When You've Deployed to Github Pages](https://dev.to/singhshemona/how-to-fix-only-the-readme-is-appearing-when-you-ve-deployed-to-github-pages-1ga3)
